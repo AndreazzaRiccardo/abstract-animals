@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.zoo;
 
 public class Dolphin extends Animal implements Swimmers{
     public Dolphin(String name) {

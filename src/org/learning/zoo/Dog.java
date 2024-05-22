@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.zoo;
 
 public class Dog extends Animal implements Swimmers{
 

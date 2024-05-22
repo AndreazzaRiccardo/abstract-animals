@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.zoo;
 
 public class Sparrow extends Animal implements Flyers{
     public Sparrow(String name) {

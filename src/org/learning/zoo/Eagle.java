@@ -1,4 +1,4 @@
-package org.learning;
+package org.learning.zoo;
 
 public class Eagle extends Animal implements Flyers{
     public Eagle(String name) {
